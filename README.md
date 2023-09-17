@@ -30,6 +30,7 @@
 * UI/UX no Figma
 * Estrutura base do projeto com Vite
 * Uso semântico do HTML
+* Rotas com HTTPS GET e POST
 * Integração com modelagem de Inteligência Artificial
 * Criação de elementos dinâmicos
 * Estrutura de variáveis
